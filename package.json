@@ -1,0 +1,27 @@
+{
+  "name": "ingsoft-parcial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johan-martinez/ingsoft-parcial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johan-martinez/ingsoft-parcial/issues"
+  },
+  "homepage": "https://github.com/johan-martinez/ingsoft-parcial#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.4.3"
+  },
+  "jest": {
+    "testEnviroment": "node"
+  }
+}
